@@ -1,6 +1,8 @@
 # pdf_password
 	Using PyPdf to set pdf's password
 	
+	Requirements:
+	 pip install fpdf Pillow pypdf
 	from src.pdf_password import PDF
 	
 	Examples
